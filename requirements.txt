@@ -1,2 +1,4 @@
 janome
 pandas
+pdfplumber
+scikit-learn
